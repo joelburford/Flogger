@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FloggerActivity!</string>
+    <string name="app_name">Flogger</string>
+    <string name="main1">Add Log</string>
+    <string name="main2">Statistics</string>
+    <string name="edit1">Station</string>
+    <string name="edit2">Fuel Grade</string>
+    <string name="edit3">Fuel Amount (L)</string>
+    <string name="edit4">Unit Cost (c/L)</string>
+    <string name="edit5">Trip Distance (km)</string>
+    <string name="edit6">Save</string>
+    <string name="edit7">Delete</string>
+    <string name="edit8">Edit Fuel Log</string>
+    <string name="edit9">yyyy/mm/dd</string>
+    <string name="edit10">Total Cost:  $</string>
+    <string name="stat1">Money Spent on Fuel</string>
+    <string name="stat2">Distance Traveled</string>
+    <string name="stat3">Fuel Consumption Rate</string>
+    <string name="stat4">$ </string>
+    <string name="stat5"> km</string>
+    <string name="stat6"> L/100km</string>
+
+</resources>
