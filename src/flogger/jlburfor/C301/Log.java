@@ -1,5 +1,5 @@
 /** Log
- * @author jlburfor - Joel Burford - CMPUT 301 - 1294396
+ * @author jlburfor - Joel Burford - CMPUT 301
  *
  * Log is a class representing a log entry in the database
  * 

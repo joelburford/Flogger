@@ -1,5 +1,5 @@
 /** DB
- * @author jlburfor - Joel Burford - CMPUT 301 - 1294396
+ * @author jlburfor - Joel Burford - CMPUT 301
  *
  * DB is a wrapper around the database functionality.  All other activities
  * go through DB to use the database.

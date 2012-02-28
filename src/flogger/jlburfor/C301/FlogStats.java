@@ -1,5 +1,5 @@
 /** FlogStats
- * @author jlburfor - Joel Burford - CMPUT 301 - 1294396
+ * @author jlburfor - Joel Burford - CMPUT 301
  *
  * FlogStats is an activity that shows statistics about the current
  * log database.

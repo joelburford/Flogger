@@ -1,5 +1,5 @@
 /** FloggerActivity
- * @author jlburfor - Joel Burford - CMPUT 301 - 1294396
+ * @author jlburfor - Joel Burford - CMPUT 301
  *
  * FloggerActivity is the main activity of the Flogger application.
  * 

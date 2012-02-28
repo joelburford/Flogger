@@ -1,5 +1,5 @@
 /** FlogEdit
- * @author jlburfor - Joel Burford - CMPUT 301 - 1294396
+ * @author jlburfor - Joel Burford - CMPUT 301
  * 
  * FlogEdit is an activity that lets you edit an alread existing 
  * log in the database.
